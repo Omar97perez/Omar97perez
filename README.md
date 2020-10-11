@@ -8,3 +8,6 @@
 - 📫 How to reach me: Wuth Github
 - 😄 Pronouns: Ge/Him
 - ⚡ Fun fact: Computer engineer
+
+
+<img src="https://github.com/Omar97perez/Omar97perez/tree/main/Img/MyPost.png"/>
