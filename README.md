@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi People 👋
 
 - 🔭 I’m currently working on Fred Olsen
 - 🌱 I’m currently learning Blazor
