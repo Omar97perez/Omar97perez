@@ -10,4 +10,4 @@
 - ⚡ Fun fact: Computer engineer
 
 
-<img src="https://github.com/Omar97perez/Omar97perez/tree/main/Img/MyPost.png"/>
+<img src="./Img/MyPost.png"/>
